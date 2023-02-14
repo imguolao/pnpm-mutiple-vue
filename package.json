@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "scripts": {
     "start:vue2": "lerna run start --scope vue2-site",
-    "start:vue3": "lerna run start --scope vue3-site"
+    "start:vue3": "lerna run start --scope vue3-site",
+    "start:docs": "lerna run start --scope docs"
   },
   "author": "",
   "license": "MIT",
